@@ -8,7 +8,7 @@
 
 | Name | Purpose |
 | - | - |
-| [Sorting Hat](/tree/master/solutions/sorting-hat) | Organize .epub files into folders for Kavita
+| [Sorting Hat](/solutions/sorting-hat) | Organize .epub files into folders for Kavita
 
 ## ⚠️ Disclaimer
 
